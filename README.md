@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BTOUMANA&fontSize=90&animation=fadeIn&fontAlignY=35" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-000?style=for-the-badge&logoColor=white&colorA=000&colorB=000" />
-</div>
 
 ---
   <p>
