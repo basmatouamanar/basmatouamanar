@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BT%20OUMANA&fontSize=90&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BTOUMANA&fontSize=90&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
