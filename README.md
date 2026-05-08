@@ -1,7 +1,12 @@
 <div align="center">
-  <!-- Stable Banner Alternative -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=BT+OUMANA;Full+Stack+Developer;Systems+%26+Mobile" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=BT%20OUMANA&fontSize=90&animation=fadeIn&fontAlignY=35" />
+</div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-000?style=for-the-badge&logoColor=white&colorA=000&colorB=000" />
+</div>
+
+---
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
