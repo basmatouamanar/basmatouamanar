@@ -1,19 +1,4 @@
----
-  <p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-</div>
 
----
-
-### 🛠️ Tech Stack & Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,go,css,git,github,linux,androidstudio" />
-  </a>
-</p>
 
 > **Note:** ADB & System Administration are core parts of my workflow.
 
