@@ -1,4 +1,3 @@
-https://camo.githubusercontent.com/a916cc2511b16383e16b022dde7622cbe00ad97c214ef94f236a83d75b9da899/68747470733a2f2f6469676974616c726f61722e61652f77702d636f6e74656e742f7468656d65732f6472732f6173736574732f696d672f7765622d646576656c6f706d656e742e676966
 
 > **Note:** ADB & System Administration are core parts of my workflow.
 
@@ -6,6 +5,7 @@ https://camo.githubusercontent.com/a916cc2511b16383e16b022dde7622cbe00ad97c214ef
 
 ### 📊 Performance Metrics
 <p align="center">
+  <img align="right" src="https://digitalroar.ae/wp-content/themes/drs/assets/img/web-development.gif" alt="Fille" width="30%" /><br>
   <!-- Using a stable mirror for stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=basmatouamanar&theme=tokyonight&show_icons=true&hide_border=true" width="400" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=basmatouamanar&theme=tokyonight&layout=compact&hide_border=true" width="400" />
